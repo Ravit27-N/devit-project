@@ -1,0 +1,206 @@
+[
+  {
+    "name": "adminpage",
+    "path": "/adminpage",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\adminpage.vue",
+    "chunkName": "pages/adminpage"
+  },
+  {
+    "name": "cv",
+    "path": "/cv",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\cv.vue",
+    "chunkName": "pages/cv"
+  },
+  {
+    "name": "cv_homepage",
+    "path": "/cv_homepage",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\cv_homepage.vue",
+    "chunkName": "pages/cv_homepage"
+  },
+  {
+    "name": "edit",
+    "path": "/edit",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\edit.vue",
+    "chunkName": "pages/edit"
+  },
+  {
+    "name": "filter",
+    "path": "/filter",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\filter.vue",
+    "chunkName": "pages/filter"
+  },
+  {
+    "name": "homepage",
+    "path": "/homepage",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\homepage.vue",
+    "chunkName": "pages/homepage"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "manu",
+    "path": "/manu",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\manu.vue",
+    "chunkName": "pages/manu"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "template1",
+    "path": "/template1",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\template1.vue",
+    "chunkName": "pages/template1"
+  },
+  {
+    "name": "template2",
+    "path": "/template2",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\template2.vue",
+    "chunkName": "pages/template2"
+  },
+  {
+    "name": "template3",
+    "path": "/template3",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\template3.vue",
+    "chunkName": "pages/template3"
+  },
+  {
+    "name": "template4",
+    "path": "/template4",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\template4.vue",
+    "chunkName": "pages/template4"
+  },
+  {
+    "name": "template5",
+    "path": "/template5",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\template5.vue",
+    "chunkName": "pages/template5"
+  },
+  {
+    "name": "template6",
+    "path": "/template6",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\template6.vue",
+    "chunkName": "pages/template6"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\test.vue",
+    "chunkName": "pages/test"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\user.vue",
+    "chunkName": "pages/user"
+  },
+  {
+    "name": "documents-cvform",
+    "path": "/documents/cvform",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\documents\\\\cvform.vue",
+    "chunkName": "pages/documents/cvform"
+  },
+  {
+    "name": "documents-name_card",
+    "path": "/documents/name_card",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\documents\\\\name_card.vue",
+    "chunkName": "pages/documents/name_card"
+  },
+  {
+    "name": "documents-taxes",
+    "path": "/documents/taxes",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\documents\\\\taxes.vue",
+    "chunkName": "pages/documents/taxes"
+  },
+  {
+    "name": "documents-travel",
+    "path": "/documents/travel",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\documents\\\\travel.vue",
+    "chunkName": "pages/documents/travel"
+  },
+  {
+    "name": "events-networking",
+    "path": "/events/networking",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\events\\\\networking.vue",
+    "chunkName": "pages/events/networking"
+  },
+  {
+    "name": "events-weddings",
+    "path": "/events/weddings",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\events\\\\weddings.vue",
+    "chunkName": "pages/events/weddings"
+  },
+  {
+    "name": "guides-documentation",
+    "path": "/guides/documentation",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\guides\\\\documentation.vue",
+    "chunkName": "pages/guides/documentation"
+  },
+  {
+    "name": "messages-archived",
+    "path": "/messages/archived",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\messages\\\\archived.vue",
+    "chunkName": "pages/messages/archived"
+  },
+  {
+    "name": "messages-unbox",
+    "path": "/messages/unbox",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\messages\\\\unbox.vue",
+    "chunkName": "pages/messages/unbox"
+  },
+  {
+    "name": "messages-unread",
+    "path": "/messages/unread",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\messages\\\\unread.vue",
+    "chunkName": "pages/messages/unread"
+  },
+  {
+    "name": "pictures-anniversary",
+    "path": "/pictures/anniversary",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\pictures\\\\anniversary.vue",
+    "chunkName": "pages/pictures/anniversary"
+  },
+  {
+    "name": "pictures-university",
+    "path": "/pictures/university",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\pictures\\\\university.vue",
+    "chunkName": "pages/pictures/university"
+  },
+  {
+    "name": "pictures-vacations",
+    "path": "/pictures/vacations",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\pictures\\\\vacations.vue",
+    "chunkName": "pages/pictures/vacations"
+  },
+  {
+    "name": "statistics-call-stats",
+    "path": "/statistics/call-stats",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\statistics\\\\call-stats.vue",
+    "chunkName": "pages/statistics/call-stats"
+  },
+  {
+    "name": "statistics-finances",
+    "path": "/statistics/finances",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\statistics\\\\finances.vue",
+    "chunkName": "pages/statistics/finances"
+  },
+  {
+    "name": "statistics-trip-logs",
+    "path": "/statistics/trip-logs",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\statistics\\\\trip-logs.vue",
+    "chunkName": "pages/statistics/trip-logs"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Ravit\\\\Desktop\\\\Test Project\\\\iEBuy\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "Content": {
+    "description": "Auto imported from components/Content.vue"
+  },
+  "Scholarship": {
+    "description": "Auto imported from components/Scholarship.vue"
+  },
+  "DashboardLayout": {
+    "description": "Auto imported from components/dashboard/Layout.vue"
+  },
+  "DocsDoc": {
+    "description": "Auto imported from components/docs/Doc.vue"
+  },
+  "DocsSnippet": {
+    "description": "Auto imported from components/docs/Snippet.vue"
+  },
+  "DashboardProviderOverlay": {
+    "description": "Auto imported from components/dashboard/provider/Overlay.vue"
+  },
+  "DashboardProvider": {
+    "description": "Auto imported from components/dashboard/provider/Provider.vue"
+  },
+  "DashboardSidenavigationHeader": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Header.vue"
+  },
+  "DashboardSidenavigation": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Index.vue"
+  },
+  "DashboardSidenavigationItem": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Item.vue"
+  },
+  "DashboardSidenavigationItems": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Items.vue"
+  },
+  "DashboardTopnavigation": {
+    "description": "Auto imported from components/dashboard/topnavigation/Index.vue"
+  },
+  "DocsIconsFileIcon": {
+    "description": "Auto imported from components/docs/icons/FileIcon.vue"
+  },
+  "DocsIconsFolderIcon": {
+    "description": "Auto imported from components/docs/icons/FolderIcon.vue"
+  },
+  "DocsIconsVueIcon": {
+    "description": "Auto imported from components/docs/icons/VueIcon.vue"
+  },
+  "DashboardSidenavigationAccordion": {
+    "description": "Auto imported from components/dashboard/sidenavigation/accordion/Accordion.vue"
+  },
+  "DashboardSidenavigationAccordionAngleDownIcon": {
+    "description": "Auto imported from components/dashboard/sidenavigation/accordion/AngleDownIcon.vue"
+  },
+  "DashboardSidenavigationAccordionAngleRightIcon": {
+    "description": "Auto imported from components/dashboard/sidenavigation/accordion/AngleRightIcon.vue"
+  },
+  "DashboardSidenavigationIconsDocuments": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Documents.vue"
+  },
+  "DashboardSidenavigationIconsEvents": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Events.vue"
+  },
+  "DashboardSidenavigationIconsGuides": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Guides.vue"
+  },
+  "DashboardSidenavigationIconsMessages": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Messages.vue"
+  },
+  "DashboardSidenavigationIconsPictures": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Pictures.vue"
+  },
+  "DashboardSidenavigationIconsStatistics": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Statistics.vue"
+  }
+}
